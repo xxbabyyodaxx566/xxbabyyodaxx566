@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @xxbabyyodaxx566
-- 👀 I’m interested in ... game developement
-- 🌱 I’m currently learning ... html and web design on my own free time
+- 👋 Hi, I’m @L1NEre
+- 👀 I’m interested in ... game developement, web design, and cyber security
+- 🌱 I’m currently learning ... html and web design as a high-school senior
 - 💞️ I’m looking to collaborate on ... bigger projects in the future
 - 📫 How to reach me ... ilovmining@gmail.com
 
